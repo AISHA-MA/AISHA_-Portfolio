@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 <br>👯 I’m currently working on:  <br>- Telehealth projects targeting post-surgery patients in cosmetic clinics  <br>- A home healthcare project using the 'Shifakum' solution for remote consultations  <br>- Managing digital transformation projects in healthcare, including HIS, AI, and ambulance apps<br><br>🤝 I’m looking to collaborate on :  <br>- Telemedicine solutions  <br>- Mobile healthcare clinics for remote areas<br><br>🤝 I’m looking for help with :  <br>- Analyzing customer trends and operating costs to enhance business strategies  <br>- Gaining deeper insights into healthcare project tenders and vendor coordination<br><br>🌱 I’m currently learning :  <br>- Advanced data analysis using tools like Python  <br><br>💬 Ask me about :  <br>- Digital transformation in healthcare  <br>- Project management for medical equipment and turnkey solutions  <br>- Business and data analysis for healthcare<br><br>⚡  Fun fact :  <br>- I’ve worked on designing mobile healthcare clinics, including dental clinics, from the ground up!<br><br>
 
 
