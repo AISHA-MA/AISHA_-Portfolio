@@ -1,3 +1,5 @@
+![Welcome Header](C:\Users\shosho\OneDrive\Pictures\Screenshots\Header.png)
+
 # About Me
 
 I am a Data and Business Analyst with a strong focus on providing data-driven solutions and improving workflows across various industries, with a particular emphasis on the healthcare sector. By leveraging advanced tools such as Python, SQL, and Power BI, I deliver actionable insights that support strategic decision-making.
