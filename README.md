@@ -1,10 +1,27 @@
-#  About Me:
-<br>👯 I’m currently working on:  <br>- Telehealth projects targeting post-surgery patients in cosmetic clinics  <br>- A home healthcare project using the 'Shifakum' solution for remote consultations  <br>- Managing digital transformation projects in healthcare, including HIS, AI, and ambulance apps<br><br>🤝 I’m looking to collaborate on :  <br>- Telemedicine solutions  <br>- Mobile healthcare clinics for remote areas<br><br>🤝 I’m looking for help with :  <br>- Analyzing customer trends and operating costs to enhance business strategies  <br>- Gaining deeper insights into healthcare project tenders and vendor coordination<br><br>🌱 I’m currently learning :  <br>- Advanced data analysis using tools like Python  <br><br>💬 Ask me about :  <br>- Digital transformation in healthcare  <br>- Project management for medical equipment and turnkey solutions  <br>- Business and data analysis for healthcare<br><br>⚡  Fun fact :  <br>- I’ve worked on designing mobile healthcare clinics, including dental clinics, from the ground up!<br><br>
+# About Me
 
+I am a Data and Business Analyst with a strong focus on providing data-driven solutions and improving workflows across various industries, with a particular emphasis on the healthcare sector. By leveraging advanced tools such as Python, SQL, and Power BI, I deliver actionable insights that support strategic decision-making.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aisha-mamoun/) 
+## Core Expertise
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+- **Data Analysis**: Proficient in analyzing large datasets and transforming them into actionable reports and KPIs.
+- **Business in Healthcare**: Focused on analyzing operations and providing performance improvement solutions for hospitals and healthcare centers.
+- **Business in Finance**: Providing data-driven solutions for financial decision-making and operational efficiency improvements.
 
+## Current Projects
+
+### Healthcare Sector
+Currently working on a [hospital data analysis project](#), aimed at improving operations and reducing operational costs using modern analytical tools.
+
+### Finance Sector
+Involved in a [financial data analysis project](#), aimed at enhancing business performance and providing accurate financial reports to support management decisions.
+
+## Tools Used
+
+- **Power BI**: For creating analytical dashboards that display clear and accurate information.
+- **Tableau**: For visualizing data and analyzing trends.
+- **Python**: For data analysis and automating repetitive processes.
+- **SQL**: For extracting and analyzing large datasets from databases.
+
+## Contact
+For any inquiries or discussions related to data analysis across various sectors, feel free to connect with me via [LinkedIn](#) or email.
