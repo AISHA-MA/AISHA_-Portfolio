@@ -1,4 +1,4 @@
-![Welcome Header](C:\Users\shosho\OneDrive\Pictures\Screenshots\Header.png)
+![Welcome Header](Header.png)
 
 # About Me
 
