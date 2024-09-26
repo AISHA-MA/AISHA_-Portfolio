@@ -27,10 +27,10 @@ Involved in a [financial data analysis project](#), aimed at enhancing business 
 
 # Projects
 
-## [Patient Data Analysis](https://github.com/your-username/patient-data-analysis)
-A data analysis project focused on analyzing patient data to derive insights that improve healthcare outcomes and decision-making processes.
+## [Medical Cost Analysis](https://github.com/your-username/medical-cost-analysis)
+A comprehensive analysis of the key factors affecting medical costs, including smoking, BMI, age, and geographical regions. The report provides insights into how these factors influence healthcare expenses and offers recommendations for reducing costs and improving healthcare management.
 
-![Patient Data Analysis](https://example.com/path-to-patient-data-analysis-image.png)
+![Medical Cost Analysis](https://example.com/path-to-medical-cost-analysis-image.png)
 
 
 ## Current Goals
