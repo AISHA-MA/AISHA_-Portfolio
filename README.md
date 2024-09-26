@@ -13,7 +13,7 @@ I am a Data and Business Analyst with a strong focus on providing data-driven so
 ## Current Projects
 
 ### Healthcare Sector
-Currently working on a [hospital data analysis project](#), aimed at improving operations and reducing operational costs using modern analytical tools.
+Currently working on a [Healthcare Technology Managment data analysis project](#), aimed at improving operations and reducing operational costs using modern analytical tools.
 
 ### Finance Sector
 Involved in a [financial data analysis project](#), aimed at enhancing business performance and providing accurate financial reports to support management decisions.
