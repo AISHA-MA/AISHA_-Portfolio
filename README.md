@@ -13,7 +13,7 @@ I am a Data and Business Analyst with a strong focus on providing data-driven so
 ## Current Projects
 
 ### Healthcare Sector
-Currently working on a [Healthcare Technology Managment data analysis project](#), aimed at improving operations and reducing operational costs using modern analytical tools.
+[Healthcare Technology Management System Design](#): A project focused on **designing a new database system** for healthcare technology management, including **system analysis**, **ERD preparation**, and **database implementation** to improve operational efficiency and cost management.
 
 ### Finance Sector
 Involved in a [financial data analysis project](#), aimed at enhancing business performance and providing accurate financial reports to support management decisions.
@@ -25,5 +25,21 @@ Involved in a [financial data analysis project](#), aimed at enhancing business 
 - **Python**: For data analysis and automating repetitive processes.
 - **SQL**: For extracting and analyzing large datasets from databases.
 
+# Projects
+
+## [Patient Data Analysis](https://github.com/your-username/patient-data-analysis)
+A data analysis project focused on analyzing patient data to derive insights that improve healthcare outcomes and decision-making processes.
+
+![Patient Data Analysis](https://example.com/path-to-patient-data-analysis-image.png)
+
+
+## Current Goals
+
+ - Expanding my skills in **machine learning** and **AI**.  
+ - Continuing to develop advanced **data visualization techniques**.
+
+
 ## Contact
-For any inquiries or discussions related to data analysis across various sectors, feel free to connect with me via [LinkedIn](#) or email.
+
+- [LinkedIn](www.linkedin.com/in/aisha-mamoun)
+- [Email](aisha_m_2010@hotmail.com)
