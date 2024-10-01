@@ -26,7 +26,7 @@ Involved in a [financial data analysis project](#), aimed at enhancing business 
 - **SQL**: For extracting and analyzing large datasets from databases.
 
 # Projects
--  Medical Cost Analysis :([insurance data project](https://github.com/AISHA-MA/AISHA_Portfolio/commit/585abb617ff0dab3330a7e454450139aca49ddc9))
+-  Medical Cost Analysis :([insurance data project](https://github.com/AISHA-MA/AISHA_Portfolio/tree/main/insurance%20data%20project))
 
 
 
