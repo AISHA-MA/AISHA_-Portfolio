@@ -26,11 +26,8 @@ Involved in a [financial data analysis project](#), aimed at enhancing business 
 - **SQL**: For extracting and analyzing large datasets from databases.
 
 # Projects
+-  Medical Cost Analysis :([insurance data project](https://github.com/AISHA-MA/AISHA_Portfolio/commit/585abb617ff0dab3330a7e454450139aca49ddc9))
 
-## [Medical Cost Analysis](https://github.com/your-username/medical-cost-analysis)
-A comprehensive analysis of the key factors affecting medical costs, including smoking, BMI, age, and geographical regions. The report provides insights into how these factors influence healthcare expenses and offers recommendations for reducing costs and improving healthcare management.
-
-![Medical Cost Analysis](https://example.com/path-to-medical-cost-analysis-image.png)
 
 
 ## Current Goals
